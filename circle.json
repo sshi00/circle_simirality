@@ -1,0 +1,87 @@
+[
+    {
+      "question": "あなたの入りたいサークルは?",
+      "selection":[
+        {
+          "id": "sport",
+          "value": "スポーツ",
+          "text": "運動部がいい",
+          "img": "/assets/images/circle.jpg"
+        },
+        {
+            "id": "culture",
+            "value": "インドア",
+            "text": "文化部がいい",
+            "img": "/assets/images/girl.png"
+        }
+      ]
+    },
+    {
+      "question": "サークルの規模は?",
+      "selection":[
+        {
+          "id": "",
+          "value": "多人数",
+          "text": "",
+          "img": "/assets/images/circle.jpg"
+        },
+        {
+          "id": "",
+          "value": "少人数",
+          "text": "",
+          "img": "/assets/images/girl.png"
+        }
+      ]
+    },
+    {
+      "question": "サークルの活動頻度は?",
+      "selection":[
+        {
+          "id": "",
+          "value": "活発",
+          "text": "",
+          "img": "/assets/images/circle.jpg"
+        },
+        {
+          "id": "",
+          "value": "マイペース",
+          "text": "",
+          "img": "/assets/images/girl.png"
+        }
+      ]
+    },
+    {
+      "question": "サークルのレベルは?",
+      "selection":[
+        {
+          "id": "",
+          "value": "初心者",
+          "text": "",
+          "img": "/assets/images/circle.jpg"
+        },
+        {
+          "id": "",
+          "value": "経験者",
+          "text": "",
+          "img": "girl"
+        }
+      ]
+    },
+    {
+      "question": "サークルの活動場所は?",
+      "selection":[
+        {
+          "id": "shibuya",
+          "value": "渋谷",
+          "text": "渋谷中心",
+          "img": "soccer"
+        },
+        {
+          "id": "sagamihara",
+          "value": "相模原",
+          "text": "相模原中心",
+          "img": "girl"
+        }
+      ]
+    }
+]

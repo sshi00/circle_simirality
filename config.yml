@@ -1,0 +1,5 @@
+server:
+  custom_model_path: circle.model
+  json_file_path: circle.json
+  firebase_credential_path:
+  port: 8887
